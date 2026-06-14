@@ -1,0 +1,11 @@
+Profile gate: pass, engineering-platform.
+Story: 4
+Specificity: 5
+Rhythm: 4
+Whitespace: 4
+Chart/diagram clarity: pending render QA
+Typography: pending render QA
+Restraint: 4
+Precision: 4
+Coherence: pending render QA
+Residual caveat: deck is based on static analysis; rebuild was not verified because cmake is unavailable in the terminal.

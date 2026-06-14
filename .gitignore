@@ -1,0 +1,56 @@
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 编译目录
+
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# CMake 构建目录和生成文件
+
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# 编译中间文件
+
+*.obj
+*.o
+*.pch
+*.ilk
+*.pdb
+*.idb
+*.tlog
+
+# 生成的程序和动态库
+
+*.exe
+*.dll
+*.lib
+*.exp
+
+# 系统文件
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 日志和临时文件
+
+*.log
+*.tmp
+*.temp
+*.bak
+~$*

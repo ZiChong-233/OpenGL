@@ -1,0 +1,6 @@
+Slide size: 1280x720
+Typography: Microsoft YaHei for Chinese labels and body copy
+Palette: paper #F7F4EA, ink #17202A, blue #245F8D, green #2E7D68, amber #B7791F, red #B64B4B, charcoal #263238
+Grammar: full-slide paper background, strong title claim, one dominant proof object, restrained colored labels, no decorative logos
+Footer: quiet source note on every content slide
+Layout families: cover, architecture lanes, capability bars, risk matrix, lifecycle map, engine lifecycle flow, roadmap timeline, priority table

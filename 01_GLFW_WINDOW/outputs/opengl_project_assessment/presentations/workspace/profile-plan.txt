@@ -1,0 +1,7 @@
+Task mode: create
+Primary deck-profile: engineering-platform
+Secondary profile gates: technical assessment, project roadmap, resource lifecycle analysis
+Required proof objects: architecture map, capability inventory, resource lifecycle diagram, maturity/risk view, optimization roadmap
+Source requirements: local OpenGL project source files and README only
+Known missing inputs: no successful rebuild in this terminal because cmake is unavailable; no live OpenGL runtime capture
+QA gates: technical labels must stay specific, diagrams must express real ownership and lifecycle relationships, no invented runtime metrics

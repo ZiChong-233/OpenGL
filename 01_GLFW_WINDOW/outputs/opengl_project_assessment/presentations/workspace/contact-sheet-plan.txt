@@ -1,0 +1,8 @@
+Slide 01: cover with verdict metric rail
+Slide 02: architecture lane map
+Slide 03: completed capability inventory
+Slide 04: missing capability risk board
+Slide 05: current memory release lifecycle map
+Slide 06: mature engine resource lifecycle flow
+Slide 07: staged optimization roadmap timeline
+Slide 08: priority and acceptance criteria close

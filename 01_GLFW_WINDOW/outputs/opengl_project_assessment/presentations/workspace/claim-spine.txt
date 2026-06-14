@@ -1,0 +1,9 @@
+Thesis: The project has crossed from isolated OpenGL lessons into a small engine framework, but its next maturity bottleneck is resource ownership and lifecycle discipline.
+Audience: Project owner reviewing current progress and next engineering work.
+Arc:
+1. Establish the current state and overall verdict.
+2. Show the implemented architecture and capabilities.
+3. Separate completed work from missing engine-grade practices.
+4. Explain memory/resource release status and risks.
+5. Define mature engine behavior.
+6. Provide a staged optimization plan.
